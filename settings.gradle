@@ -1,0 +1,4 @@
+include ':androidAysncHttpMulitPartModifyLibrary'
+include ':androidUniversalImageLoaderLibrary'
+include ':photoViewLibrary'
+include ':samplePhotoView'
